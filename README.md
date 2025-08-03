@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TANISH-GHOSH
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning something...
-- 💞️ I’m looking to collaborate on nothing...
-- 📫 How to reach me = don't reach me now
+- 💞️ I’m looking to collaborate with people in Data science and statistics.
+- 📫 How to reach me = github
 - 😄 Pronouns: M
 - ⚡ Fun fact: Life has always been hard, it's you who needs to get stronger.
 
